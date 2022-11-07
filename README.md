@@ -9,8 +9,8 @@ When You Run the program .. You will then understand it
 
 
 *************************************************************************************************************
-                                            To run the program 
+                                                 Let's Play the Game
 *************************************************************************************************************
 
-You can copy the code from <a href="https://github.com/SahilLohan/Game-Snake-Water-Gun-in-Python/blob/main/Main.py">Main.py</a> and then paste it <a href="https://www.programiz.com/python-programming/online-compiler/">Here. </a>
+To Play Game <a href="https://onlinegdb.com/8yA82FO6q">Click Here</a> 
 and then Click the Run Button ....
