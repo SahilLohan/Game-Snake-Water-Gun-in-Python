@@ -3,7 +3,7 @@
 # Gun < water
 import random
 
-print("****************This is snake--water--gun game****************\n\n\n") 
+print("\n****************This is snake--water--gun game****************\n\n") 
 def winnerOutOf(c1,c2):
     if c1=="snake" and c2=="water": return "snake"
     if c2=="snake" and c1=="water": return "snake"
@@ -19,6 +19,7 @@ choices=("snake","water","gun")
 
 
 while(GameIsNotOver):
+    print("--------------------------------------------------------------------")
     Human=input("Enter Your choice[snake/water/gun] : ")
     Human=Human.lower()
     if Human=="snake" or Human=="water" or Human=="gun":
@@ -37,4 +38,4 @@ while(GameIsNotOver):
     
 print("************************************")  
 print("**********Free Trial is over********\n")
-print("************************************\nPlease Take our premium to play more :)\n\n\nJust kidding .. run the program again to play :)")
+print("Please Take our premium to play more :)\n\n\nJust kidding .. run the program again to play :)")
