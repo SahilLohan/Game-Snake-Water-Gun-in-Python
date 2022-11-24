@@ -1,6 +1,8 @@
 # snake > water
 # snake < Gun
 # Gun < water
+
+
 import random
 
 print("\n****************This is snake--water--gun game****************\n\n") 
